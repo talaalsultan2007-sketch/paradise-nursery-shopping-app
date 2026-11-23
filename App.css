@@ -1,0 +1,43 @@
+ body {
+
+  margin: 0;
+
+  font-family: Arial, sans-serif;
+
+}
+
+.landing-page {
+
+  min-height: 100vh;
+
+  background-image: url("https://images.unsplash.com/photo-1416879595882-3373a0480b5b");
+
+  background-size: cover;
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+}
+
+.landing-content {
+
+  text-align: center;
+
+  padding: 100px 20px;
+
+  color: white;
+
+}
+
+button {
+
+  padding: 12px 24px;
+
+  background-color: green;
+
+  color: white;
+
+  border: none;
+
+  cursor: pointer;
